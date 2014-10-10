@@ -3,7 +3,7 @@
         "name": "https://github.com/yingzou/angular-bootstrap/graphs/contributors"
     },
     "name": "accedo-angular-bootstrap",
-    "version": "0.11.0",
+    "version": "0.0.1",
     "main": ["./ui-bootstrap-tpls.js"],
     "dependencies": {
         "angular": ">=1"
