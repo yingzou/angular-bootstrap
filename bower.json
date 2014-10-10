@@ -7,5 +7,10 @@
     "main": ["./ui-bootstrap-tpls.js"],
     "dependencies": {
         "angular": ">=1"
-    }    
+    },
+    "ignore": [
+        ".git",
+        "README.md",
+        ".DS_STORE"
+    ],    
 }
